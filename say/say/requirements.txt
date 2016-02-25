@@ -1,0 +1,10 @@
+appdirs==1.4.0
+gittalk==0.1.0
+google-speech==1.0.9
+httplibfix==1.0
+PyAudio==0.2.9
+pygsr==0.1
+pywin32==219
+requests==2.8.1
+SpeechRecognition==3.1.0
+urllib2-file==0.2.1
